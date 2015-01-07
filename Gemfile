@@ -18,6 +18,10 @@ group :development do
   gem 'capistrano3-unicorn'
   gem 'capistrano3-nginx'
 
+  gem 'capistrano3-monit'
+  
+  # gem 'capistrano-sidekiq'
+
   # Other
 end
 
